@@ -3,4 +3,4 @@
 
 ### Features
 
-* impl openapi code generator ([#1](https://github.com/bundle-matters/open-api-codegen/issues/1)) ([00766ad](https://github.com/bundle-matters/open-api-codegen/commit/00766ad7589682455b016cd6c8269fc469169e19))
+* impl openapi code generator ([#1](https://github.com/bundle-matters/openapi-cg/issues/1)) ([00766ad](https://github.com/bundle-matters/openapi-cg/commit/00766ad7589682455b016cd6c8269fc469169e19))

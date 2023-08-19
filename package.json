@@ -1,11 +1,17 @@
 {
-  "name": "open-api-codegen",
-  "description": "Module resolver plugin for less.js",
+  "name": "openapi-cg",
+  "description": "Generate code from an OpenAPI spec",
   "keywords": [
-    "less",
-    "less plugin",
-    "alias",
-    "module resolver"
+    "openapi",
+    "swagger",
+    "code",
+    "generator",
+    "typescript",
+    "javascript",
+    "axios",
+    "node",
+    "client",
+    "server"
   ],
   "main": "lib/index.js",
   "scripts": {
@@ -17,14 +23,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bundle-matters/open-api-codegen.git"
+    "url": "git+https://github.com/bundle-matters/openapi-cg.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bundle-matters/open-api-codegen/issues"
+    "url": "https://github.com/bundle-matters/openapi-cg/issues"
   },
-  "homepage": "https://github.com/bundle-matters/open-api-codegen#readme",
+  "homepage": "https://github.com/bundle-matters/openapi-cg#readme",
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/git": "^10.0.1",

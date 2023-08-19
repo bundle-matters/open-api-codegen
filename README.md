@@ -2,25 +2,25 @@
 
 Yet another openapi codegen but using **https://generator3.swagger.io/api/generate** service directly
 
-![Github Action](https://github.com/bundle-matters/open-api-codegen/actions/workflows/ci.yml/badge.svg) [![codecov](https://codecov.io/gh/bundle-matters/open-api-codegen/branch/main/graph/badge.svg?token=ITYULU4YJ3)](https://codecov.io/gh/bundle-matters/open-api-codegen) [![Version](https://img.shields.io/npm/v/open-api-codegen.svg?sanitize=true)](https://www.npmjs.com/package/open-api-codegen) [![Downloads](https://img.shields.io/npm/dm/open-api-codegen.svg?sanitize=true)](https://npmcharts.com/compare/open-api-codegen?minimal=true) [![License](https://img.shields.io/npm/l/open-api-codegen.svg?sanitize=true)](https://www.npmjs.com/package/open-api-codegen)
+![Github Action](https://github.com/bundle-matters/openapi-cg/actions/workflows/ci.yml/badge.svg) [![codecov](https://codecov.io/gh/bundle-matters/openapi-cg/branch/main/graph/badge.svg?token=ITYULU4YJ3)](https://codecov.io/gh/bundle-matters/openapi-cg) [![Version](https://img.shields.io/npm/v/openapi-cg.svg?sanitize=true)](https://www.npmjs.com/package/openapi-cg) [![Downloads](https://img.shields.io/npm/dm/openapi-cg.svg?sanitize=true)](https://npmcharts.com/compare/openapi-cg?minimal=true) [![License](https://img.shields.io/npm/l/openapi-cg.svg?sanitize=true)](https://www.npmjs.com/package/openapi-cg)
 
 ## Install
 
 ```shell
 # use npm
-npm install open-api-codegen
+npm install openapi-cg
 
 # use yarn
-yarn add open-api-codegen
+yarn add openapi-cg
 
 # use pnpm
-pnpm install open-api-codegen
+pnpm install openapi-cg
 ```
 
 ## Usage
 
 ```js
-const { openapiCodegen } = require('open-api-codegen');
+const { openapiCodegen } = require('openapi-cg');
 
 openapiCodegen(
   'http://127.0.0.1:8000/openapi.json',

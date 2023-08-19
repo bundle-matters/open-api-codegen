@@ -1,5 +1,6 @@
 # Open Api Code Generator
-> Yet another openapi codegen but using https://generator3.swagger.io/api/generate service directly
+
+Yet another openapi codegen but using **https://generator3.swagger.io/api/generate** service directly
 
 ![Github Action](https://github.com/bundle-matters/open-api-codegen/actions/workflows/ci.yml/badge.svg) [![codecov](https://codecov.io/gh/bundle-matters/open-api-codegen/branch/main/graph/badge.svg?token=ITYULU4YJ3)](https://codecov.io/gh/bundle-matters/open-api-codegen) [![Version](https://img.shields.io/npm/v/open-api-codegen.svg?sanitize=true)](https://www.npmjs.com/package/open-api-codegen) [![Downloads](https://img.shields.io/npm/dm/open-api-codegen.svg?sanitize=true)](https://npmcharts.com/compare/open-api-codegen?minimal=true) [![License](https://img.shields.io/npm/l/open-api-codegen.svg?sanitize=true)](https://www.npmjs.com/package/open-api-codegen)
 
